@@ -2,8 +2,6 @@
 spotifood
 # Spotifood / ifood-frontend-test
 
-Acesse em: https://github.com/wvpaz/spotifood
-
 ### Modo Desenvolvimento
 
 Instale as depêndencias
